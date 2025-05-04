@@ -100,7 +100,7 @@ section {
 .home-content h1 {
   font-size: 6rem;
   font-weight: 700;
-  /*margin-top: 15rem;*/
+  margin-top: 5rem;
   line-height: 1;
 }
 .home-content h3 {
@@ -195,8 +195,8 @@ section {
   text-align: left;
 }
 .about-content p {
-  font-size: 1.8rem;
   margin-top: 1rem;
+  font-size: 1.8rem;
 }
 .about-content .btn {
   margin: 3rem 0;
@@ -238,7 +238,7 @@ section {
   justify-content: center;
   align-items: center;
   background-color: rgb(65, 181, 248);
-  height: 600px;
+  height: 450px;
   border-radius: 3rem;
   cursor: pointer;
   border: 5px solid transparent;
