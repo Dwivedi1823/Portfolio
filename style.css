@@ -90,6 +90,7 @@ section {
   align-items: center;
   justify-content: center;
   gap: 15rem;
+  margin-top: 20px;
 }
 .home-content {
   display: flex;
@@ -100,7 +101,7 @@ section {
 .home-content h1 {
   font-size: 6rem;
   font-weight: 700;
-  margin-top: 0;
+  
   line-height: 1;
 }
 .home-content h3 {
