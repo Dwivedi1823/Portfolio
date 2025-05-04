@@ -100,7 +100,7 @@ section {
 .home-content h1 {
   font-size: 6rem;
   font-weight: 700;
-  margin-top: 1.5rem;
+  margin-top: 5rem;
   line-height: 1;
 }
 .home-content h3 {
@@ -196,6 +196,7 @@ section {
 }
 .about-content p {
   font-size: 1.8rem;
+  margin-top: 1rem;
 }
 .about-content .btn {
   margin: 3rem 0;
